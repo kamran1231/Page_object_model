@@ -1,0 +1,37 @@
+2021-04-18 16:49:09,620 - BasePage.py:[32] - [INFO] - Typing in an element: name_X2021-04-18 16:49:10,619 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2021-04-18 16:49:22,234 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2021-04-18 16:49:22,738 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+on.com
+2021-04-18 16:49:10,119 - BasePage.py:[46] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2021-04-18 16:49:10,239 - BasePage.py:[32] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2021-04-18 16:49:10,367 - BasePage.py:[32] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2021-04-18 16:49:10,474 - BasePage.py:[32] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2021-04-18 16:49:10,619 - BasePage.py:[22] - [INFO] - Clicking on an element: submit_XPATH
+2021-04-18 16:49:22,285 - BasePage.py:[32] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2021-04-18 16:49:22,352 - BasePage.py:[32] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2021-04-18 16:49:22,383 - BasePage.py:[32] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2021-04-18 16:49:22,417 - BasePage.py:[46] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2021-04-18 16:49:22,432 - BasePage.py:[32] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2021-04-18 16:49:22,451 - BasePage.py:[32] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2021-04-18 16:49:22,486 - BasePage.py:[32] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2021-04-18 16:49:22,738 - BasePage.py:[22] - [INFO] - Clicking on an element: submit_XPATH
+2021-04-18 16:51:26,631 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2021-04-18 16:51:26,908 - BasePage.py:[32] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2021-04-18 16:51:27,012 - BasePage.py:[32] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2021-04-18 16:51:27,159 - BasePage.py:[32] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2021-04-18 16:51:27,417 - BasePage.py:[46] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2021-04-18 16:51:27,540 - BasePage.py:[32] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2021-04-18 16:51:27,666 - BasePage.py:[32] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2021-04-18 16:51:27,770 - BasePage.py:[32] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2021-04-18 16:51:27,874 - BasePage.py:[22] - [INFO] - Clicking on an element: submit_XPATH
+2021-04-18 16:51:27,874 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2021-04-18 16:51:39,471 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2021-04-18 16:51:39,547 - BasePage.py:[32] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2021-04-18 16:51:39,587 - BasePage.py:[32] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2021-04-18 16:51:39,631 - BasePage.py:[32] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2021-04-18 16:51:39,713 - BasePage.py:[46] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2021-04-18 16:51:39,744 - BasePage.py:[32] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2021-04-18 16:51:39,785 - BasePage.py:[32] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2021-04-18 16:51:39,825 - BasePage.py:[32] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2021-04-18 16:51:40,185 - BasePage.py:[22] - [INFO] - Clicking on an element: submit_XPATH
+2021-04-18 16:51:40,185 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed

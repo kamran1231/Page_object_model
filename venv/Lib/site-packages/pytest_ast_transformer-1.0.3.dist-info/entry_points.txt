@@ -1,0 +1,3 @@
+[pytest11]
+pytest_ast_transformer = pytest_ast_transformer.plugin
+
